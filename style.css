@@ -1,0 +1,106 @@
+
+
+body {
+    background: #1e1b4b;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 150px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+button {
+    padding: 12px 25px;
+    background: #a78bfa;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
+body {
+    .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+    display: block;
+    margin: 20px auto;
+}
+ 
+
+
+
+    background-color: pink;
+          
+    color: purple;
+      
+            font-family: Arial;
+     text-align: center;
+        nav {
+   
+            background-color: lavender;
+        
+    
+    
+    padding: 15px;
+}
+
+h1 {
+    color: deeppink;
+}
+h2 { color: purple;}
+
+h3 {color: mediumvioletred;}
+
+
+   p { font-size: 16px;}
+
+a {color: purple;
+
+
+margin: 10px;}
+
+header { background-color: lavenderblush;
+    
+    padding: 30px;}
+
+section { background-color: lavender;
+margin: 20px;
+            padding: 20px;}
+.card { background-color: mistyrose;
+margin: 15px;
+
+
+    padding: 15px;}
+
+footer { background-color: plum;
+ padding: 20px;
+    color: purple;
+
+
+
+#welcome {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+}
+
+#welcome button {
+    background-color: purple;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+}
